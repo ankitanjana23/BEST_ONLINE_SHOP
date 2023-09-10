@@ -71,11 +71,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 <h2> Login Page </h2>
 <br>
-![Login Page](https://github.com/ankitanjana23/BEST_ONLINE_SHOP/assets/136179445/eaf86856-ad80-4ada-b0a1-80fef1ebf74c)
+
+![Login Page](https://github.com/ankitanjana23/BEST_ONLINE_SHOP/assets/136179445/cc94ffda-8a03-4d6c-bf83-37adbc32c8c4)
+
 
 <h2> User Register Page</h2>
 <br>
-![User Register page](https://github.com/ankitanjana23/BEST_ONLINE_SHOP/assets/136179445/e22020a8-7285-4ad4-b31f-43bf503d43ea)
+
+![User Register page](https://github.com/ankitanjana23/BEST_ONLINE_SHOP/assets/136179445/1fd6597d-7f3d-4a86-bf2c-7af30cff8740)
 
 <h2> Home Page1</h2>
 <br>
@@ -104,7 +107,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 <h2>admin Edit user </h2>
 <br>
-![admin Edit user](https://github.com/ankitanjana23/BEST_ONLINE_SHOP/assets/136179445/7911d82a-e82b-4850-8b72-875676ce36ec)
+
+![admin Edit user](https://github.com/ankitanjana23/BEST_ONLINE_SHOP/assets/136179445/9c1c4ff1-7603-47d0-9737-2deae9a7d49a)
 
 
 <h2> User List Page</h2>
@@ -130,15 +134,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 <h2> Product Details </h2>
 <br>
-![Product Details](https://github.com/ankitanjana23/BEST_ONLINE_SHOP/assets/136179445/fc988411-0990-45b4-a19a-c229dfff3a19)
+
+![Product Details](https://github.com/ankitanjana23/BEST_ONLINE_SHOP/assets/136179445/f2243c24-27da-45e1-8281-1ddbe6e19d30)
 
 <h2> Filter and ProductList</h2>
 <br>
-![Filter and ProductList](https://github.com/ankitanjana23/BEST_ONLINE_SHOP/assets/136179445/3d1ac49c-9d98-4da8-bcb6-a023ccd0d3c9)
+
+![Filter and ProductList](https://github.com/ankitanjana23/BEST_ONLINE_SHOP/assets/136179445/5291c85e-5a8f-447f-9285-9be199aba92b)
+
 
 <h2> Admin Chats</h2>
 <br>
-![Admin Chats](https://github.com/ankitanjana23/BEST_ONLINE_SHOP/assets/136179445/407a1b9c-3ac7-4bc6-921d-5f4d4611ece8)
+
+![Admin Chats](https://github.com/ankitanjana23/BEST_ONLINE_SHOP/assets/136179445/34933d52-4bb5-4ab5-9afa-a39d1cd77ee5)
 
 <h2> User chat component </h2>
 <br>
